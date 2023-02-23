@@ -1,1 +1,1 @@
-# Pytorch3dKaolinWisp
+# KaolinWispPytorch3d
